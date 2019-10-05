@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Agregar productos al carrito de compras" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-04T02:38:33" hostname="50HW015302" time="33.128">
+  <properties/>
+  <testcase name="Validar que cuando cliente busque un producto y lo agregue para comprarlo aparezca dicho producto en el carrito de compras" classname="Agregar productos al carrito de compras" time="33.128"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[Oct 03, 2019 9:38:33 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9) on port 10588
+Only local connections are allowed.
+Oct 03, 2019 9:38:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar que cuando cliente busque un producto y lo agregue para comprarlo aparezca dicho producto en el carrito de compras
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

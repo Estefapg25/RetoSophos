@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Agregar productos al carrito de compras" skipped="0" tests="1" time="36.35" timestamp="2019-10-04 08:36:36"><testcase name="Validar que cuando cliente busque un producto y lo agregue para comprarlo aparezca dicho producto en el carrito de compras"/></testsuite>
